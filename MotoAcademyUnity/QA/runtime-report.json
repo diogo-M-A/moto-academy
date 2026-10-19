@@ -1,0 +1,25 @@
+{
+    "unityVersion": "6000.3.0f1",
+    "graphicsDevice": "Intel(R) UHD Graphics",
+    "timestamp": "2026-10-19T16:03:03.1325657-03:00",
+    "passed": 15,
+    "failed": 0,
+    "checks": [
+        "PASS Suspensão estabiliza no pátio: y=0,8414607",
+        "PASS Tecla R passa pelo Input System e liga o motor em neutro",
+        "PASS Tecla V alterna a câmera pelo Input System",
+        "PASS Esc pausa a sessão pelo teclado",
+        "PASS Esc retoma a sessão pelo teclado",
+        "PASS Marcha lenta sem movimento",
+        "PASS Arrancada progressiva em física real: 24,3 km/h",
+        "PASS Direção produz trajetória e inclinação",
+        "PASS Frenagem dos dois eixos para sem stall: 0,00",
+        "PASS Contato reconhece asfalto molhado",
+        "PASS Contato reconhece cascalho",
+        "PASS Suspensão sustenta a moto no topo da rampa",
+        "PASS Malha do circuito externo tem colisão superior",
+        "PASS Chuva reduz aderência do asfalto",
+        "PASS Sessão gravada em JSON"
+    ],
+    "runtimeErrors": []
+}
